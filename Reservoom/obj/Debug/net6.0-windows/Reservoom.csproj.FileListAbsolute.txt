@@ -1,0 +1,5 @@
+D:\DacLuan\WPF\Projects\Reservoom\Reservoom\obj\Debug\net6.0-windows\Reservoom.csproj.AssemblyReference.cache
+D:\DacLuan\WPF\Projects\Reservoom\Reservoom\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\DacLuan\WPF\Projects\Reservoom\Reservoom\obj\Debug\net6.0-windows\App.g.cs
+D:\DacLuan\WPF\Projects\Reservoom\Reservoom\obj\Debug\net6.0-windows\Reservoom_MarkupCompile.cache
+D:\DacLuan\WPF\Projects\Reservoom\Reservoom\obj\Debug\net6.0-windows\Reservoom_MarkupCompile.lref
