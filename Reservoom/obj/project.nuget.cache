@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lzCw+lUnPtgyiiUd03nNwo96hW7XUBNwyco3btRaPiCAz3RwWn8SBbpzQm6x3zjmBYrOavJ1TUNb3DmIIGnQdA==",
+  "dgSpecHash": "6BO3KYvDnMsIkTZvGOaqMxTCQecNdZa7/ZUbhM2/yeBGBD5e7JR2l5eAdj+ywJG1otrJ+O8zQS+f5+0d2MYSBQ==",
   "success": true,
-  "projectFilePath": "D:\\DacLuan\\WPF\\Projects\\Reservoom\\Reservoom\\Reservoom.csproj",
+  "projectFilePath": "D:\\WPF\\Projects\\Servervoom\\Reservoom\\Reservoom.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
